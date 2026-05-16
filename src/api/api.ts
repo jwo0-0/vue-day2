@@ -32,12 +32,12 @@ export const mainApi = {
       return [];
     }
   },
+  
   /**
    * 특정 ID 조회
    */
   getMetaById: async (id: number): Promise<Deck | undefined> => {
     try {
-      // 위에서 만든 getMetaList를 그대로 활용하므로 지연 시간까지 동일하게 적용됨
       const list = await mainApi.getMetaList();
       return list.find((item) => item.id === id);
     } catch (error) {
