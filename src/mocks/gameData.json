@@ -1,0 +1,255 @@
+[
+  {
+    "id": 1,
+    "name": "용사 파티",
+    "tier": "A",
+    "level": 7,
+    "difficulty": "Hard",
+    "avgRank": 3.08,
+    "winRate": 22.83,
+    "top4Rate": 78.74,
+    "pickRate": 5.89,
+    "cost": 54,
+    "traits": [
+      { "name": "용사 파티", "count": 7 },
+      { "name": "용사",     "count": 1 },
+      { "name": "마법사",   "count": 2 },
+      { "name": "전사",     "count": 2 },
+      { "name": "사제",     "count": 2 }
+    ],
+    "units": [
+      { "name": "페른",     "job": "마법사", "image": "https://placehold.co/54x54", "cost": 1, "max": true,  "rank": "3rd" },
+      { "name": "슈타르크", "job": "전사",   "image": "https://placehold.co/54x54", "cost": 2 },
+      { "name": "하이터",   "job": "사제",   "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "자인",     "job": "사제",   "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "아이젠",   "job": "전사",   "image": "https://placehold.co/54x54", "cost": 4 },
+      { "name": "프리렌",   "job": "마법사", "image": "https://placehold.co/54x54", "cost": 4, "max": true,  "rank": "1st" },
+      { "name": "힘멜",     "job": "용사",   "image": "https://placehold.co/54x54", "cost": 5, "max": true,  "rank": "2nd" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "여관의 모험가",
+    "tier": "B",
+    "level": 7,
+    "difficulty": "Hard",
+    "avgRank": 3.76,
+    "winRate": 17.25,
+    "top4Rate": 68.91,
+    "pickRate": 4.33,
+    "cost": 54,
+    "traits": [
+      { "name": "여관의 모험가", "count": 7 },
+      { "name": "용사",          "count": 1 },
+      { "name": "마법사",        "count": 1 },
+      { "name": "전사",          "count": 1 },
+      { "name": "사제",          "count": 2 },
+      { "name": "도적",          "count": 2 }
+    ],
+    "units": [
+      { "name": "안두인",   "job": "사제",   "image": "https://placehold.co/54x54", "cost": 1 },
+      { "name": "가로쉬",   "job": "전사",   "image": "https://placehold.co/54x54", "cost": 2 },
+      { "name": "발리라",   "job": "도적",   "image": "https://placehold.co/54x54", "cost": 2 },
+      { "name": "제이나",   "job": "마법사", "image": "https://placehold.co/54x54", "cost": 3, "max": true,  "rank": "3rd" },
+      { "name": "바리안",   "job": "용사",   "image": "https://placehold.co/54x54", "cost": 4, "max": true,  "rank": "1st" },
+      { "name": "말퓨리온", "job": "사제",   "image": "https://placehold.co/54x54", "cost": 4 },
+      { "name": "실바나스", "job": "도적",   "image": "https://placehold.co/54x54", "cost": 5, "max": true,  "rank": "2nd" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "조사병단",
+    "tier": "A",
+    "level": 8,
+    "difficulty": "Insane",
+    "avgRank": 3.21,
+    "winRate": 21.47,
+    "top4Rate": 75.63,
+    "pickRate": 7.12,
+    "cost": 54,
+    "traits": [
+      { "name": "조사병단", "count": 8 },
+      { "name": "용사",     "count": 2 },
+      { "name": "마법사",   "count": 2 },
+      { "name": "전사",     "count": 2 },
+      { "name": "사제",     "count": 1 },
+      { "name": "도적",     "count": 1 }
+    ],
+    "units": [
+      { "name": "아르민",     "job": "마법사", "image": "https://placehold.co/54x54", "cost": 1 },
+      { "name": "라이너",     "job": "전사",   "image": "https://placehold.co/54x54", "cost": 1 },
+      { "name": "한지",       "job": "마법사", "image": "https://placehold.co/54x54", "cost": 2 },
+      { "name": "히스토리아", "job": "사제",   "image": "https://placehold.co/54x54", "cost": 2 },
+      { "name": "엘빈",       "job": "용사",   "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "미카사",     "job": "전사",   "image": "https://placehold.co/54x54", "cost": 3, "max": true,  "rank": "3rd" },
+      { "name": "리바이",     "job": "도적",   "image": "https://placehold.co/54x54", "cost": 4, "max": true,  "rank": "2nd" },
+      { "name": "에렌",       "job": "용사",   "image": "https://placehold.co/54x54", "cost": 5, "max": true,  "rank": "1st" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "반지 원정대",
+    "tier": "S",
+    "level": 7,
+    "difficulty": "Hard",
+    "avgRank": 2.71,
+    "winRate": 28.14,
+    "top4Rate": 82.34,
+    "pickRate": 9.45,
+    "cost": 48,
+    "traits": [
+      { "name": "반지 원정대", "count": 7 },
+      { "name": "용사",        "count": 1 },
+      { "name": "마법사",      "count": 1 },
+      { "name": "전사",        "count": 3 },
+      { "name": "도적",        "count": 2 }
+    ],
+    "units": [
+      { "name": "프로도",    "job": "도적",   "image": "https://placehold.co/54x54", "cost": 1, "max": true,  "rank": "3rd" },
+      { "name": "샘",        "job": "전사",   "image": "https://placehold.co/54x54", "cost": 1 },
+      { "name": "아라곤",    "job": "용사",   "image": "https://placehold.co/54x54", "cost": 2, "max": true,  "rank": "2nd" },
+      { "name": "김리",      "job": "전사",   "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "피핀&메리", "job": "도적",   "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "레골라스",  "job": "전사",   "image": "https://placehold.co/54x54", "cost": 5 },
+      { "name": "간달프",    "job": "마법사", "image": "https://placehold.co/54x54", "cost": 5, "max": true,  "rank": "1st" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "칠왕국",
+    "tier": "B",
+    "level": 7,
+    "difficulty": "Normal",
+    "avgRank": 3.89,
+    "winRate": 16.08,
+    "top4Rate": 66.42,
+    "pickRate": 3.71,
+    "cost": 47,
+    "traits": [
+      { "name": "칠왕국", "count": 7 },
+      { "name": "용사",   "count": 1 },
+      { "name": "마법사", "count": 1 },
+      { "name": "전사",   "count": 2 },
+      { "name": "사제",   "count": 1 },
+      { "name": "도적",   "count": 2 }
+    ],
+    "units": [
+      { "name": "스노우",     "job": "용사",   "image": "https://placehold.co/54x54", "cost": 1, "max": true,  "rank": "3rd" },
+      { "name": "바라테온",   "job": "도적",   "image": "https://placehold.co/54x54", "cost": 2 },
+      { "name": "라니스터",   "job": "전사",   "image": "https://placehold.co/54x54", "cost": 2 },
+      { "name": "마르텔",     "job": "도적",   "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "티렐",       "job": "사제",   "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "타르가리엔", "job": "마법사", "image": "https://placehold.co/54x54", "cost": 4, "max": true,  "rank": "1st" },
+      { "name": "스타크",     "job": "전사",   "image": "https://placehold.co/54x54", "cost": 4, "max": true,  "rank": "2nd" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "귀살대",
+    "tier": "S",
+    "level": 8,
+    "difficulty": "Hard",
+    "avgRank": 2.84,
+    "winRate": 25.67,
+    "top4Rate": 80.12,
+    "pickRate": 8.93,
+    "cost": 62,
+    "traits": [
+      { "name": "귀살대", "count": 8 },
+      { "name": "용사",   "count": 2 },
+      { "name": "마법사", "count": 2 },
+      { "name": "전사",   "count": 2 },
+      { "name": "사제",   "count": 1 },
+      { "name": "도적",   "count": 1 }
+    ],
+    "units": [
+      { "name": "젠이츠",   "job": "마법사", "image": "https://placehold.co/54x54", "cost": 1 },
+      { "name": "이노스케", "job": "전사",   "image": "https://placehold.co/54x54", "cost": 2 },
+      { "name": "시노부",   "job": "사제",   "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "네즈코",   "job": "전사",   "image": "https://placehold.co/54x54", "cost": 3, "max": true,  "rank": "3rd" },
+      { "name": "무이치로", "job": "마법사", "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "렌고쿠",   "job": "용사",   "image": "https://placehold.co/54x54", "cost": 4, "max": true,  "rank": "2nd" },
+      { "name": "우즈이",   "job": "도적",   "image": "https://placehold.co/54x54", "cost": 4 },
+      { "name": "탄지로",   "job": "용사",   "image": "https://placehold.co/54x54", "cost": 5, "max": true,  "rank": "1st" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "용사 덱",
+    "tier": "S",
+    "level": 8,
+    "difficulty": "Insane",
+    "avgRank": 2.52,
+    "winRate": 30.18,
+    "top4Rate": 84.91,
+    "pickRate": 7.35,
+    "cost": 69,
+    "traits": [
+      { "name": "힘멜의 여정", "count": 8 },
+      { "name": "용사",        "count": 8 }
+    ],
+    "units": [
+      { "name": "스노우",  "job": "용사", "image": "https://placehold.co/54x54", "cost": 1 },
+      { "name": "아라곤",  "job": "용사", "image": "https://placehold.co/54x54", "cost": 2, "max": true,  "rank": "3rd" },
+      { "name": "엘빈",    "job": "용사", "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "바리안",  "job": "용사", "image": "https://placehold.co/54x54", "cost": 4 },
+      { "name": "렌고쿠",  "job": "용사", "image": "https://placehold.co/54x54", "cost": 4, "max": true,  "rank": "2nd" },
+      { "name": "에렌",    "job": "용사", "image": "https://placehold.co/54x54", "cost": 5 },
+      { "name": "탄지로",  "job": "용사", "image": "https://placehold.co/54x54", "cost": 5 },
+      { "name": "힘멜",    "job": "용사", "image": "https://placehold.co/54x54", "cost": 5, "max": true,  "rank": "1st" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "강철의 검",
+    "tier": "A",
+    "level": 8,
+    "difficulty": "Hard",
+    "avgRank": 3.14,
+    "winRate": 21.92,
+    "top4Rate": 76.88,
+    "pickRate": 6.54,
+    "cost": 59,
+    "traits": [
+      { "name": "강철의 맹세", "count": 8 },
+      { "name": "용사",        "count": 5 },
+      { "name": "전사",        "count": 3 }
+    ],
+    "units": [
+      { "name": "스노우",  "job": "용사", "image": "https://placehold.co/54x54", "cost": 1 },
+      { "name": "아라곤",  "job": "용사", "image": "https://placehold.co/54x54", "cost": 2, "max": true,  "rank": "2nd" },
+      { "name": "가로쉬",  "job": "전사", "image": "https://placehold.co/54x54", "cost": 2 },
+      { "name": "엘빈",    "job": "용사", "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "미카사",  "job": "전사", "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "바리안",  "job": "용사", "image": "https://placehold.co/54x54", "cost": 4, "max": true,  "rank": "3rd" },
+      { "name": "스타크",  "job": "전사", "image": "https://placehold.co/54x54", "cost": 4 },
+      { "name": "탄지로",  "job": "용사", "image": "https://placehold.co/54x54", "cost": 5, "max": true,  "rank": "1st" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "마법사 덱",
+    "tier": "S",
+    "level": 8,
+    "difficulty": "Insane",
+    "avgRank": 2.63,
+    "winRate": 29.41,
+    "top4Rate": 83.17,
+    "pickRate": 11.28,
+    "cost": 58,
+    "traits": [
+      { "name": "현자의 탑", "count": 8 },
+      { "name": "마법사",    "count": 8 }
+    ],
+    "units": [
+      { "name": "아르민",     "job": "마법사", "image": "https://placehold.co/54x54", "cost": 1 },
+      { "name": "젠이츠",     "job": "마법사", "image": "https://placehold.co/54x54", "cost": 1 },
+      { "name": "한지",       "job": "마법사", "image": "https://placehold.co/54x54", "cost": 2 },
+      { "name": "무이치로",   "job": "마법사", "image": "https://placehold.co/54x54", "cost": 3 },
+      { "name": "제이나",     "job": "마법사", "image": "https://placehold.co/54x54", "cost": 3, "max": true,  "rank": "3rd" },
+      { "name": "타르가리엔", "job": "마법사", "image": "https://placehold.co/54x54", "cost": 4 },
+      { "name": "프리렌",     "job": "마법사", "image": "https://placehold.co/54x54", "cost": 4, "max": true,  "rank": "2nd" },
+      { "name": "간달프",     "job": "마법사", "image": "https://placehold.co/54x54", "cost": 5, "max": true,  "rank": "1st" }
+    ]
+  }
+]
