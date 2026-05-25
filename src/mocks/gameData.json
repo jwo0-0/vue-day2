@@ -185,7 +185,6 @@
     "pickRate": 7.35,
     "cost": 69,
     "traits": [
-      { "name": "힘멜의 여정", "count": 8 },
       { "name": "용사",        "count": 8 }
     ],
     "units": [
@@ -211,7 +210,6 @@
     "pickRate": 6.54,
     "cost": 59,
     "traits": [
-      { "name": "강철의 맹세", "count": 8 },
       { "name": "용사",        "count": 5 },
       { "name": "전사",        "count": 3 }
     ],
@@ -238,7 +236,6 @@
     "pickRate": 11.28,
     "cost": 58,
     "traits": [
-      { "name": "현자의 탑", "count": 8 },
       { "name": "마법사",    "count": 8 }
     ],
     "units": [
